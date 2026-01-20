@@ -1,4 +1,4 @@
-# 🌱 Seeds Volunteers Management System
+# Seeds Volunteers Management System
 
 A modern full-stack web platform for managing volunteer applications and coordination for community and cultural organizations.
 
@@ -80,4 +80,5 @@ The system focuses on usability, transparency, and scalability while supporting 
 ---
 
 ## 📁 Project Structure
+
 
